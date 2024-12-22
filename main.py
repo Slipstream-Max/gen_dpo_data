@@ -2,7 +2,7 @@ import os
 import json
 from openai import OpenAI
 client = OpenAI(
-    api_key="sk-yj095j6XnzXwmxjrMELSKwQQ7AMptRQapOZIrBhBHNoUFcHy",
+    api_key="xxxxx",
     base_url="https://api.chatanywhere.tech"
 )
 
